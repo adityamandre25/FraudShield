@@ -24,8 +24,8 @@ A minimal web interface is included to demonstrate the end-to-end flow.
 Users can paste an SMS message and view the prediction result by calling
 the same public backend API used by the Android app.
 
-The web demo is intentionally simple and framework-free to keep the focus
-on backend integration and system flow rather than UI polish.
+The web demo is simple and framework-free to keep the focus
+on backend integration and system flow.
 
 ## Notes
 
