@@ -1,34 +1,94 @@
 # FraudShield
 
-FraudShield is a learning project focused on detecting fraudulent SMS messages
-using a hybrid rule-based and machine learning approach.
+Hybrid AI-based Bank Message Fraud Detection System
 
-The system exposes a FastAPI backend that classifies messages into
-SAFE, SUSPICIOUS, or FRAUD categories. The backend is consumed by an Android
-application and a lightweight web demo.
+---
 
-## Architecture Overview
+## About
 
-- **Backend**: FastAPI service with a hybrid detection pipeline
-  - Rule-based checks (URLs, suspicious patterns, homoglyph indicators)
-  - Machine learning model (Logistic Regression)
-- **Clients**:
-  - Android app using NotificationListenerService
-  - Web demo built with plain HTML, CSS, and JavaScript
-- **API**:
-  - `POST /predict` → returns a plain-text label (SAFE / SUSPICIOUS / FRAUD)
+FraudShield is a learning project focused on detecting fraudulent bank SMS/messages using a hybrid rule-based and machine learning approach.
 
-## Web Demo
+---
 
-A minimal web interface is included to demonstrate the end-to-end flow.
-Users can paste an SMS message and view the prediction result by calling
-the same public backend API used by the Android app.
+## Hybrid Detection Approach
 
-The web demo is simple and framework-free to keep the focus
-on backend integration and system flow.
+### Rule-Based Detection
+- URL pattern analysis
+- Suspicious domain checks
+- Unicode / homograph attack detection
+- Fraud-related keywords
 
+### Machine Learning Model
+- TF-IDF vectorization
+- Logistic Regression classifier
+- Confidence threshold handling
+
+---
+
+## Classification Labels
+- SAFE
+- SUSPICIOUS
+- FRAUD
+
+The system exposes a FastAPI backend and includes a lightweight web demo to demonstrate the end-to-end flow.
+
+---
+
+## System Flow
+
+![FraudShield Flow](flowchart.png)
+
+---
+
+## How To Run
+
+### 1. Clone Repository
+git clone https://github.com/adityamandre25/FraudShield.git
+
+cd FraudShield
+
+### 2. Create Virtual Environment
+
+Windows:
+
+python -m venv venv
+venv\Scripts\activate
+
+
+Mac/Linux:
+
+python3 -m venv venv
+source venv/bin/activate
+
+
+### 3. Install Dependencies
+
+pip install -r requirements.txt
+
+
+### 4. Start Server
+
+uvicorn app.main:app --reload
+
+
+Open in browser:
+
+http://localhost:8000
+
+
+---
+
+## Sample Messages For Testing
+
+### SAFE:
+Amazon Pay: ₹50 cashback has been credited to your Amazon Pay balance.
+
+### SUSPICIOUS:
+Action required to maintain your access.
+
+### FRAUD:
+Dear User, your SBI KYC has expired. Update immediately at http://sbi-verify-secure.in to avoid account freeze.
+
+---
 ## Notes
-
 - This project is intended as a learning and demonstration exercise.
-- The backend API is public for demo purposes and does not handle sensitive data.
-- The system is not production-hardened.

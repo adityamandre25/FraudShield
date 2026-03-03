@@ -1,0 +1,500 @@
+Dear Customer, your bank KYC is expiring soon. Please update immediately to avoid service interruption.
+Your PAN verification has failed. Your account may get restricted if not updated today.
+Your UPI services will be disabled due to incomplete information.
+Important: Your Aadhaar details do not match bank records. Re-check urgently.
+Your account will soon be blocked due to repeated failed verification attempts.
+Attention: Unusual activity detected. Kindly verify your identity.
+Your mobile banking access will be limited until KYC is completed.
+Your credit card may be temporarily disabled due to incomplete profile details.
+Your recent transaction has been put on hold pending verification.
+Your ATM card will stop working if details are not updated.
+Aapka bank KYC pending hai. Jaldi complete karein warna account block ho sakta hai.
+Aapka PAN number verify nahi hua. Kripya turant update karein.
+Aadhaar mismatch detected. Aapki services band ho sakti hain.
+UPI ID verification nahi hua hai. Seva ruk sakti hai.
+Bank account freeze ki warning. Details verify karein.
+Bhai, tera KYC issue chal raha hai. Jaldi dekh le.
+UPI band ho jayega agar aaj verify nahi kiya.
+Card block notice received. Check your details.
+Account par restriction lag sakti hai. Information update karein.
+PAN card issue found. Action required immediately.
+Your electricity bill verification failed. Your connection may be affected.
+Your LPG KYC update is pending; subsidy may stop.
+Your FASTag may get blacklisted due to incomplete profile.
+Your IRCTC account verification is due.
+Your government ID validation attempt was unsuccessful.
+Dear User, we could not authenticate your Aadhaar biometrics.
+Important: Your mobile SIM requires re-KYC to prevent disconnection.
+Notification: Your bill payment attempt failed; service may be interrupted.
+Your insurance policy details are incomplete; renewal may be delayed.
+Your loan application review is pending additional verification.
+Aapka card activate nahi ho paya. Kripya detail check karein.
+Aapka mobile number verify nahi hua. Banking services ruk sakti hain.
+PAN seeding error. Update required.
+Aadhaar validation fail. Turant dekhein.
+UPI payments temporarily restricted.
+KYC recheck required for uninterrupted transactions.
+Your account status is under review.
+We were unable to validate your profile information.
+Your recent payment was flagged for security verification.
+Your digital wallet may get limited soon due to pending KYC.
+Bank verification incomplete. Action needed to restore full access.
+Profile update required to avoid service failure.
+Multiple login attempts detected; security review pending.
+Your savings account may face restrictions due to KYC expiry.
+We could not authenticate your documents.
+Pension verification pending. Benefits may be delayed.
+EPFO KYC not completed. Withdrawal may fail.
+Income tax validation incomplete; your filing may be rejected.
+Vehicle insurance renewal halted due to document mismatch.
+Health policy verification issue detected.
+Your bank account will face restrictions soon due to repeated KYC failures.
+We were unable to confirm your PAN details. Please re-check immediately.
+Your UPI service may be paused until your information is updated.
+Important: Your Aadhaar-based verification attempt was unsuccessful.
+Your account security review is incomplete and requires your attention.
+Your recent login attempt appears suspicious. Kindly verify your identity.
+Your credit card services may be interrupted due to incomplete documents.
+Your EMI auto-debit request failed; verification needed.
+Your mobile banking app access may be temporarily disabled.
+Unusual activity detected. Your account status is under review.
+Aapka KYC approve nahi hua. Kripya dobara check karein.
+Aapka Aadhaar valid nahi dikh raha. Jaldi verify karein.
+PAN card detail galat hai. Bank services ruk sakti hain.
+UPI ID verify nahi ho pa rahi hai. Seva band ho sakti hai.
+Account par restriction lagne ka sambhav hai.
+Bhai, tera UPI kuch error dikha raha hai. Check kar le.
+KYC pending dikha raha hai, varna account block bol raha hai.
+Card activation fail, verification karna padega.
+Recharge attempt verify nahi ho pa raha.
+Details mismatch dikh raha hai, jaldi update kar.
+Your electricity account verification failed on last attempt.
+FASTag may be deactivated due to incomplete profile.
+Your government ID verification status is pending.
+Your IRCTC login needs re-verification.
+Your LPG consumer details could not be verified.
+Your tax submission is under manual review.
+EPFO KYC mismatch detected; withdrawal may fail.
+Pension verification incomplete; benefits may be delayed.
+Insurance renewal cannot proceed without updated details.
+Vehicle insurance KYC is pending; renewal may fail.
+Aadhaar mismatch aaya hai, services ruk sakti hain.
+PAN validation fail ho gaya, dobara verify karein.
+UPI temporarily restrict ho sakta hai.
+Account freeze warning — document update required.
+Card service mein error aa raha hai, details check karein.
+Important: Your card credentials could not be verified today.
+Your profile information appears incomplete. Review required.
+Recent transaction flagged for security concerns.
+Your online banking profile must be updated to continue usage.
+Mobile number validation pending; your account may be limited.
+Bank verification fail. Jaldi action lein.
+UPI ID mei issue hai, kal se band ho sakta hai.
+Aapka PAN update incomplete hai.
+Aapka Aadhaar pending hai, service ruk jayegi.
+Aapke account par review chal raha hai.
+Initial verification failed. Please reattempt verification.
+Your identity verification could not be completed.
+Important: Update required to avoid service limitations.
+We were unable to authenticate your documents.
+Your digital services may be restricted without updated verification.
+Your bank has flagged your account for incomplete verification. Please check your details.
+Your PAN number appears incorrect in our system. Review immediately.
+Your UPI payments may stop if required documents are not updated.
+Your Aadhaar number mismatch was detected. Please review urgently.
+Important: Your recent identity check was not successful.
+Your online banking security verification is pending.
+Your credit card might face temporary restrictions until details are updated.
+Your loan application is under additional scrutiny due to missing information.
+Your ATM usage limit may be revised due to incomplete KYC.
+Your last transaction was marked unusual and needs confirmation.
+Aapka bank KYC fail ho gaya. Dobara check karein.
+Aadhaar card verify nahi ho pa raha. Jaldi action lein.
+PAN detail galat lag rahi hai.
+UPI ki seva temporarily band ho sakti hai.
+Account par hold lag sakta hai. Verification pending hai.
+Bro, tera UPI error dikha raha. Shayd update karna padega.
+Card use band ho sakta hai agar details sahi na hui.
+Recharge verify nahi ho pa raha, profile dekh le.
+Bank bol raha KYC issue hai.
+Payment hold mein chala gaya, details confirm kar.
+Your electricity consumer details could not be confirmed.
+Your FASTag status may be restricted soon.
+Your insurance profile requires re-verification.
+IRCTC account review pending; verification required.
+Your LPG consumer information may be outdated.
+Income tax validation pending for your profile.
+EPFO could not verify your registered mobile number.
+Pension records require additional verification.
+Health insurance claim delayed due to incomplete data.
+Vehicle registration record mismatch detected.
+Aapka Aadhaar match nahi ho raha. Update karna zaroori hai.
+PAN update incomplete hai, service limit lag sakti hai.
+UPI daily limit verification pending hai.
+Bank profile incomplete dikha raha hai.
+Card renewal ke liye verification required hai.
+Your identity check could not be completed today.
+Account protection alert: information review required.
+Profile validation unsuccessful; re-attempt needed.
+Your digital wallet verification is pending approval.
+Your last login triggered a security review.
+Bank ne bola document mismatch mila hai.
+UPI ID verify nahi hua, issue ho sakta hai.
+SIM verification pending, service impact ho sakta hai.
+PAN validation error aaya hai.
+Aadhaar record verify nahi ho paaya.
+KYC update zaroori hai warna kuch features band ho jayenge.
+Your account security needs reconfirmation.
+Document verification delay may affect banking services.
+We were unable to validate your submitted details.
+Your card services may face restrictions until verification is complete.
+Your bank account review is pending due to incomplete KYC information.
+Your PAN verification was not successful; some services may not work.
+UPI transactions may fail until your identity is revalidated.
+Your Aadhaar details could not be matched; action required soon.
+Important: Your profile update attempt was rejected.
+Your recent login seems unusual; security confirmation needed.
+Card verification status incomplete; some features may be restricted.
+Your EMI auto-debit request is under additional verification.
+Online banking access may be limited until details are updated.
+Your savings account is under routine security review.
+Aapka KYC incomplete hai. Services prabhavit ho sakti hain.
+Aadhaar details verify nahi ho payi. Kripya update karein.
+PAN validation error aaya. Dobara check karna hoga.
+UPI temporarily suspend ho sakta hai.
+Bank account par alert laga diya gaya hai.
+Bhai, bank bol raha hai tera KYC galat hai, check kar le.
+UPI ka verification pending hai, payment ruk sakti hai.
+Card ka activation fail ho gaya lagta hai.
+Recharge processing mei issue aa raha hai.
+Profile mismatch dikh raha hai.
+Your electricity account verification attempt failed.
+FASTag may stop working due to incomplete details.
+Your government KYC review is pending manual approval.
+Your IRCTC profile needs identity confirmation.
+LPG consumer details mismatch found.
+Tax filing validation incomplete; further action needed.
+EPFO KYC status pending; withdrawal request may fail.
+Pension disbursement delayed due to document mismatch.
+Health insurance renewal cannot proceed until verification is done.
+Vehicle RC information requires correction.
+Aapka Aadhaar validate nahi ho paaya. Dhyan dena hoga.
+PAN record galat hai. Update karna zaroori hai.
+UPI ID verify nahi hui, service me dikkat aa sakti hai.
+Bank ne profile incomplete bataya hai.
+Card renewal ke liye document verify karna padega.
+Your identity review failed today; retry verification soon.
+We could not authenticate your recent information update.
+Your account details require immediate re-checking.
+A security concern has been raised on your profile.
+Your mobile number verification is pending.
+Aapke bank verification mei issue mila hai.
+UPI ID mei mismatch hai, kal se payment band ho sakti hai.
+SIM re-KYC pending, service par effect ho sakta hai.
+PAN update nahi hua, service limit lag sakti hai.
+Aadhaar mismatch abhi bhi dikh raha hai.
+Document verification poora nahi hua, kuch features band ho sakte hain.
+Your account protection check requires your attention.
+We were unable to verify your provided details.
+Your digital wallet account may face restrictions soon.
+Your card services will require verification to continue.
+Your bank account will be blocked today due to incomplete KYC. Contact support immediately.
+Urgent notice: Your Aadhaar verification has failed. Please recheck your details.
+Your UPI ID will stop working if verification is not completed soon.
+Your PAN details appear incorrect. Update your records at the earliest.
+Security alert: Your account shows inconsistent data.
+Your mobile number is not linked properly with your bank. Update soon to avoid restrictions.
+Important: Your account access will be limited until identity confirmation.
+Your recent transaction could not be processed due to validation issues.
+Your banking services may be suspended if documents are not updated.
+Urgent KYC alert: Your information is incomplete.
+Aapka account block ho jayega agar KYC update nahi kiya.
+Aadhaar verify nahi hua, turant check karein.
+UPI ID mein galati hai, services band ho sakti hain.
+PAN card details mismatch mil gaya hai.
+Bank account verification fail hua hai.
+Your automatic payment has been stopped due to compliance issues.
+Your identity verification window is closing soon.
+Your savings account requires immediate attention due to flagged inconsistencies.
+Your mobile banking access will be restricted unless details are updated.
+Suspicious activity found in your account. Review urgently.
+UPI service ruk sakti hai, jaldi verify karein.
+KYC pending hai, turant update karein warna account freeze hoga.
+PAN validation fail hua, recheck karein.
+Aadhaar DOB mismatch mila, update jaruri hai.
+Apki banking services risk par hain.
+Your recent loan inquiry could not be verified.
+Your account authenticity could not be confirmed during routine checks.
+Identity check required for uninterrupted services.
+Your transaction pattern triggered an automated review.
+Your UPI wallet shows inconsistent information.
+Account verification incomplete hai, jaldi se update karein.
+Bank ne aapka profile mismatch detect kiya hai.
+Documents sahi nahi lag rahe, update karna hoga.
+Aapka UPI PIN revalidation jaruri hai.
+Policy renewal pending hai, warna benefits suspend honge.
+Your debit card may stop working due to outdated KYC information.
+We were unable to verify your identity using existing documents.
+Your digital profile shows missing information that must be updated.
+Your account will undergo restrictions due to incomplete records.
+Validation of your personal details has failed.
+Aapka UPI verification incomplete hai.
+Card services band ho sakti hain agar details update nahi hua.
+KYC mismatch mila hai, check karein.
+Aadhaar number verify nahi ho raha.
+Account details mein error mila hai.
+Your last payment attempt was flagged for verification.
+Your banking compliance review requires your immediate attention.
+Unverified activity observed in your digital wallet.
+Your transfer request is pending due to incorrect user details.
+Profile validation error detected.
+UPI services me error hai, verify zaruri hai.
+Bank account ki jaanch chal rahi hai.
+PAN number sahi nahi hai, update karein.
+Aadhaar linking fail hogaya hai.
+Account check pending hai.
+Your security profile appears outdated and needs refreshing.
+Your account was temporarily limited due to validation checks.
+Your KYC submission has discrepancies.
+Your banking privileges may be reduced unless data is revalidated.
+We detected an identity mismatch in your recent verification attempt.
+Account verify nahi hua, jaldi karein.
+UPI ID galat hai, review karein.
+PAN approval pending hai.
+Aadhaar verification zaruri hai.
+Risk alert: account details irregular hain.
+Your mobile number could not be authenticated for recent operations.
+Account moderation triggered due to incomplete identity information.
+KYC evaluation incomplete, recheck needed.
+Your account data appears inconsistent across services.
+You must confirm ownership of your account for uninterrupted access.
+KYC ke bina account nahi chalega.
+Aadhaar mismatch ho raha hai.
+UPI service suspend ho sakti hai.
+PAN verify karo, warna block ho jayega.
+Documents verify nahi ho rahe.
+Your recent authentication attempt did not match our records.
+Additional identity confirmation is required for your protection.
+We could not confirm your registered contact details.
+Your account is under security review.
+Revalidate your details to avoid service disruption.
+UPI payment error, verify karein.
+Account freeze warning.
+PAN linking required.
+Aadhaar verification fail!
+Identity mismatch found.
+Your access will be paused until personal data is corrected.
+Account continuity depends on successful verification.
+Your UPI activation requires additional information.
+There is a discrepancy in your verification documents.
+Your online banking identity could not be confirmed.
+KYC recheck zaruri hai.
+UPI details galat hain.
+PAN approval fail hua.
+Aadhaar card update jaruri.
+User details verify karo.
+Your payment credentials require a fresh verification cycle.
+Your account will be reviewed for compliance shortly.
+Your transaction limit could be affected due to incomplete verification.
+Your identity review is pending and needs immediate correction.
+Personal details mismatch found during automated checks.
+Congratulations! You have been selected to win a free iPhone. Claim instructions will follow shortly.
+You have been shortlisted for an exclusive reward. Respond to confirm eligibility.
+Your mobile number has won a lucky draw. Verification pending.
+You are selected for a complimentary iPhone upgrade offer.
+Your number is chosen for a premium gift reward. Contact soon to proceed.
+You are eligible for a surprise giveaway. Complete verification to continue.
+Your name has appeared in a promotional prize list.
+You have been awarded a special bonus gift. Confirmation required.
+Lucky winner! You qualify for a high-value reward.
+You have been chosen for a limited-time premium prize.
+Great news! You may receive a smartphone upgrade after verification.
+You are selected for a festival reward under a promotional scheme.
+Your number is eligible for a cashback reward after identity confirmation.
+Exclusive gift unlocked. Verification pending.
+You may receive complimentary accessories as part of our reward program.
+You have won a “Mega Festive Surprise Gift.” Please wait for further steps.
+Your number qualifies for a special voucher bonus.
+You are selected for a platinum reward scheme.
+Your phone number is randomly chosen for a high-value gift.
+You may receive a reward package after confirming basic details.
+Congratulations! You could get a premium phone upgrade.
+Your entry for the reward list has been accepted.
+You have won points in a promotional event.
+Lucky alert! Your number is listed for a surprise win.
+Your name is shortlisted for a free reward under our special drive.
+Aapka number lucky winner bana hai. Verification pending.
+Aap iPhone reward ke liye eligible hain. Details confirm karein.
+Gift pack ke liye aap select hue ho.
+Special prize ke liye aap shortlist hue ho.
+Aapko surprise reward mil sakta hai.
+You have been identified for a premium membership trial reward.
+Your account is eligible for complimentary points.
+You may receive a reward after authentication.
+You have been chosen for a free coupon benefit.
+Bonus reward activated — confirmation needed.
+You may qualify for a high-value loyalty prize.
+Your reference ID has been shortlisted for a free upgrade.
+You might be entitled to a reward gift pack.
+Your user ID is in the candidate list for prize distribution.
+Exclusive benefit flagged for your number — pending approval.
+Aapka number reward list me aaya hai.
+Aap gift ke liye selected ho.
+Prize milne ka chance hai, confirmation pending.
+Aapko bonus points diye gaye hain. Verification chahiye.
+Festival gift ke liye aap eligible ho sakte ho.
+You have been nominated for a special appreciation gift.
+Reward system flagged your number for evaluation.
+Pre-approved reward awaits your confirmation.
+Your number appears in this week’s winner selection.
+You may receive a cashback prize once your details are verified.
+Your KYC could not be verified. Please respond to avoid service interruptions.
+Your account will undergo a temporary review due to mismatched details.
+A security flag was raised on your recent login attempt.
+Your UPI ID may stop working if identity confirmation is not completed.
+Your card services might be stopped due to incomplete information.
+Congratulations! You are selected for a premium festival reward. Verification pending.
+Your number has been shortlisted for a luxury smartphone giveaway.
+You may have won a cash reward. Confirmation is required.
+You have been chosen for a high-value voucher, pending validation.
+Your user ID qualifies for a special promotion benefit.
+Your package could not be delivered due to missing details.
+Delivery confirmation is required to proceed with dispatching your parcel.
+Your shipment is on hold due to incomplete address verification.
+Package processing delayed — further information needed.
+Your parcel requires confirmation before the final delivery attempt.
+You have been selected for a work-from-home opportunity. Respond to proceed.
+Your profile matches our high-paying job criteria. Confirmation needed.
+You are shortlisted for a recruitment drive.
+Guaranteed monthly income available for selected candidates.
+Immediate joining opportunity available — reply to continue.
+Your OTP attempt failed repeatedly. Review your identity information.
+An OTP was requested on your number. If not you, report immediately.
+Your authentication session was interrupted due to mismatch.
+Someone tried to access your account. Security check required.
+Multiple failed login attempts detected recently.
+You have an unread confidential message waiting for verification.
+Someone has tried to contact you regarding a personal update.
+Your profile has been shortlisted for a special matchmaking offer.
+A private message could not be delivered to you due to settings.
+Your contact has requested an urgent confirmation from you.
+You have a pending action that must be completed soon.
+Important account review scheduled; please be prepared.
+Your identity needs reconfirmation for uninterrupted service.
+An automatic validation system has flagged your profile.
+System detected incomplete user setup for your ID.
+Aapka account review ke liye hold par hai.
+Verification pending hai, jaldi confirm karein.
+Aapka mobile number validate nahi ho raha.
+KYC se related kuch issue mila hai.
+Aapka profile incomplete dikh raha hai.
+Your food delivery could not be assigned due to missing verification.
+Your order requires confirmation before dispatch.
+Service request pending due to mismatched user details.
+Your booking is on hold until identity is confirmed.
+A recent subscription attempt needs verification.
+Your wallet may face restrictions due to incomplete documents.
+A transaction was flagged due to unusual activity.
+Your recent request cannot be processed until data is validated.
+Your digital account access might be limited unless verified.
+Your user identity is required for completing pending actions.
+Your KYC review has not been completed. Please provide confirmation soon.
+Your bank profile has missing fields that require your attention.
+We were unable to match your account information during validation.
+Your identity verification remains incomplete.
+Routine checks indicate discrepancies in your submitted details.
+Your UPI account will require revalidation soon.
+Your PAN details could not be confirmed during internal review.
+Identity mismatch found — please confirm your information.
+Your digital account may face temporary restrictions.
+Security validation for your profile is pending.
+Congratulations! You are among a few selected users for a premium reward.
+You may qualify for an exclusive smartphone upgrade.
+Your number has been shortlisted for a special bonus.
+You might receive a festival gift. Verification required.
+You have been chosen for a complimentary gift pack.
+Your name appears in the winner selection list for this week.
+You are eligible for loyalty reward points after confirmation.
+A surprise reward has been assigned to your number.
+You may receive a cashback prize soon.
+An exclusive voucher may be issued to your account pending verification.
+Your parcel cannot be processed due to missing confirmation.
+Delivery partner requires verification to complete your shipment.
+Your package is pending due to unclear address details.
+A delivery attempt could not be completed without further instructions.
+Your courier needs review before dispatch can continue.
+Your food order couldn’t be assigned due to incomplete profile information.
+Your booking is pending until we receive required details.
+Your order is on hold awaiting additional verification.
+Shipment verification required before the next delivery attempt.
+Your delivery ID was flagged for manual checking.
+You have been shortlisted for a flexible work opportunity.
+Your profile matches our requirements for a high-paying role.
+You are selected for an online work assignment.
+Quick income opportunity available — confirmation required.
+You might qualify for a part-time job opening.
+Your application for a remote job has been pre-approved.
+Additional information is needed to move forward with your job selection.
+You may be eligible for a paid survey assignment.
+A recruiter has shown interest in your profile.
+You have been selected for a promotional task program.
+A new login attempt was detected on your account.
+Your OTP could not be verified.
+Someone attempted to use your number for authentication.
+Multiple invalid login attempts noticed recently.
+Your security session expired due to mismatch.
+A verification request was made on your behalf.
+If you did not request an OTP, your account may be at risk.
+Identity validation failed during login.
+Unexpected authentication attempt recorded.
+Your account activity requires immediate review.
+Aapka account review me hai, confirm karein.
+KYC update pending hai, jaldi karein.
+Aadhaar details verify nahi ho rahe.
+UPI service band ho sakti hai.
+PAN verification me problem aayi hai.
+Account ke documents incomplete dikh rahe hain.
+Risk alert: profile mismatch mila hai.
+Identity confirm karna zaruri hai.
+Kuch details verify nahi ho paayi.
+Aapka account temporarily hold par hai.
+Someone has been trying to send you a private message.
+You have an unread confidential update waiting.
+Your profile received an exclusive notification requiring approval.
+A contact has urgently requested your response.
+You have a pending message that could not be delivered.
+Your identity needs verification before accessing private content.
+Someone attempted to view your profile but verification failed.
+You may have a new match pending confirmation.
+A personal update requires your immediate review.
+A private alert could not be shared due to restricted settings.
+Your credentials require periodic validation.
+We could not confirm your submission due to missing information.
+A pending action must be completed to maintain service continuity.
+System detected incomplete user verification.
+Your digital identity may require additional review.
+A mismatch was found during automated checks.
+Your account status could change pending identity confirmation.
+Your profile requires immediate attention to avoid disruption.
+Important: recheck your user information to prevent delays.
+There was an issue validating your recent request.
+Your account ownership must be reconfirmed.
+Your user information appears outdated.
+Verification failed due to inconsistency.
+Action required to maintain your access.
+Automatic system validation unsuccessful.
+Your registration details need confirmation.
+We were unable to verify your number.
+A service check indicates incomplete information.
+Additional identity steps may be needed.
+Your account is undergoing routine review.
+A recent request from your ID appears unusual.
+User details need correction for uninterrupted services.
+Your account flags require immediate attention.
+A validation mismatch prevented successful processing.
+Your access may be limited until identity is confirmed.
+Account validation jaruri hai, review karein.
+Details sahi nahi lag rahe, verify karein.
+Identity mismatch notice.
+Service continue rakhne ke liye confirmation zaruri hai.
+User profile me error mila hai.
